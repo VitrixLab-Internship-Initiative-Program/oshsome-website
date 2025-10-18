@@ -22,13 +22,13 @@ export const brand = {
     body: "Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto",
   },
   contact: {
-    email: "Oshsome2025@gmail.com",
+    email: "oshsome2025@gmail.com",
     phone: "(02) 7116-1132",
     address:
       "Unit 1503, South Tower, AMAIA Skies Sta. Mesa, V. Mapa St., Barangay 600, Sampaloc, NCR, City of Manila, First District, 1016",
     permit: {
-      permitNo: "2025-000055069",
-      eOR: "OR-2025-0065212-B",
+      permitNo: "2025-000000000",
+      eOR: "OR-2025-00000-A",
       dateIssued: "10/06/2025",
     },
   },
