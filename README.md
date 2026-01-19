@@ -35,7 +35,38 @@ Ensure the Vercel integration:
 
 ### 3. CI/CD Ownership
 
-- Should deplo
+- Should deployments be:
+  - Triggered directly by Vercel on push, or  
+  - Controlled via GitHub Actions for traceability and auditability?
 
+### 4. Governance & Safety Controls
+
+- Do we require:
+  - Deployment approvals?  
+  - Environment protection rules?  
+  - Rollback strategy documentation?  
+
+### 5. Export & Portability
+
+- Will we maintain a **self-hostable fallback path** (Docker / static export) to avoid vendor lock-in?
+
+---
+
+## Next Steps
+
+Once these are defined, we will:
+
+- Draft the Vercel integration checklist  
+- Implement the GitHub Actions deployment workflow  
+- Add governance guardrails and documentation  
+- Update the AIOpsLab QA project with deployment controls  
+
+---
+
+> Status: Draft  
+> Owner: Pending assignment  
+> Framework Alignment: AIOpsLab, CMARC-2026, AI Safe Engineering
+
+link here (https://github.com/OSHSOME-Consultancy-PH/oshsome-website/pull/1)
 
 link here: https://github.com/OSHSOME-Consultancy-PH/oshsome-website/pull/1
