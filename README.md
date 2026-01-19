@@ -36,3 +36,6 @@ Ensure the Vercel integration:
 ### 3. CI/CD Ownership
 
 - Should deplo
+
+
+link here: https://github.com/OSHSOME-Consultancy-PH/oshsome-website/pull/1
